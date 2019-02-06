@@ -1,0 +1,6 @@
+gcc l.c -o l -lGL -lGLU -lglut
+
+if c++ objects are used, use the command 
+
+g++ welcome.c -o l -lGL -lGLU -lglut 
+
